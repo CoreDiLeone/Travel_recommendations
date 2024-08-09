@@ -90,7 +90,7 @@ form {
 /*Styles for main section*/
 
 .main-container {
-  background-image: url("../images/buildings-unsplash.jpg");
+  background-image: url("./images/buildings-unsplash.jpg");
   height: calc(100vh - 78px);
   background-position: center;
   background-repeat: no-repeat;
